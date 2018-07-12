@@ -310,7 +310,7 @@ footer .navbar img {
     background-image: url(../images/1.jpg);
 
     /* Set a specific height */
-    height: 300px; 
+    height: 1000px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -324,7 +324,7 @@ footer .navbar img {
     background-image: url(../images/2.jpg);
 
     /* Set a specific height */
-    height: 300px; 
+    height: 1000px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -338,7 +338,7 @@ footer .navbar img {
     background-image: url(../images/3.jpeg);
 
     /* Set a specific height */
-    height: 300px; 
+    height: 800px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
